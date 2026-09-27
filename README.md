@@ -1,6 +1,6 @@
 # Codex AGENTS.md
 
-A reusable set of personal working guidelines for Codex, covering language-aware English-first research, source quality and citations, office work, computer use, visual media, and mobile app development.
+A reusable set of personal working guidelines for Codex, covering language-aware English-first research, source quality and citations, office work, computer use, visual media, and software development.
 
 ## Use
 
