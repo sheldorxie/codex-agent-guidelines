@@ -14,6 +14,7 @@
 - When the goal and materials are clear, proceed directly. Ask questions only when missing information would materially affect the result; continue with any work that can be done independently.
 - Prioritize deliverables that are ready to use, and briefly explain what was completed and where the files are saved.
 - Follow my specific instructions for the current task. Put rules that apply only to a particular project in that project's own AGENTS.md.
+- For multi-step tasks, keep me informed with concise progress updates at meaningful points: state the current stage, what you have completed or learned, and what you will do next. During extended work, provide updates regularly; when you need input or encounter a blocker, explain what is needed and continue with independent work. Summarize reasoning and conclusions at a high level when useful.
 
 ## Office work and files
 - When working with documents, spreadsheets, and presentations, preserve their existing structure and formatting where possible, and check that the finished result is easy to read and use.
